@@ -1,7 +1,3 @@
-//Patrick Johnson
-//CS210
-//Project Two
-
 #include <iostream>
 #include <iomanip>
 
